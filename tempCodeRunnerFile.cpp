@@ -5,5 +5,6 @@ int main(){
     int a = 5;
     int b = 7;
 
-    cout << (a*b);
-}touc
+    cout << (a+b);
+    cout << "sum";
+}
