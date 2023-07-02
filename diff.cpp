@@ -6,4 +6,6 @@ int main(){
     int b = 7;
 
     cout << (a/b);
+
+    
 }
